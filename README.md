@@ -1,4 +1,4 @@
-# bubble-sort
+# Bubble Sort
 Accepts an array and returns a sorted version of the array
 
 ## Pseudocode
